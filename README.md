@@ -13,8 +13,13 @@ To run and understand this code  first reach ___EntryPoint___ (You can search fo
 
 #The project was run using Facebook and Twitter dataset but it works with any social network dataset from http://snap.stanford.edu/data/
 
-#Following Scoring Methods are used to construct feature Set----
+#Following Scoring Methods are used to construct feature Set------------------
 
-#common_neighbors,resource_allocation_index, jaccard_coefficient, adamic_adar_index, preferential_attachment
+___common_neighbors
+resource_allocation_index
+jaccard_coefficient
+adamic_adar_index
+preferential_attachment___
+
 
 #SVM ANN and Logistic Regresssion is used for classificaion
