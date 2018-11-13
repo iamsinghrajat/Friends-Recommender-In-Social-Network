@@ -16,7 +16,7 @@ To run and understand this code  first reach ___EntryPoint___ (You can search fo
 #Following Scoring Methods are used to construct feature Set------------------
 
 
-___common_neighbors
+common_neighbors
 
 resource_allocation_index
 
@@ -24,7 +24,7 @@ jaccard_coefficient
 
 adamic_adar_index
 
-preferential_attachment___
+preferential_attachment
 
 
 #SVM ANN and Logistic Regresssion is used for classificaion
