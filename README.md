@@ -1,6 +1,10 @@
 # LinkPrediction
 Link Prediction in Social Netowork
 
+Uses Networkx library for graph representation and score calculation
+
+!pip install networkx in jupyter notebook to add this library
+
 To run and understand this code  first reach ___EntryPoint___ (You can search for it in python code)
 
 #facebook_combine.txt is dataset
