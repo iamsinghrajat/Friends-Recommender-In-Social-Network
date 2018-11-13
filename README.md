@@ -3,7 +3,9 @@ Link Prediction in Social Netowork
 
 To run and understand this code  first reach ___EntryPoint___ (You can search for it in python code)
 
-#Facebook and twitter dataset is included
+#facebook_combine.txt is dataset
+
+#Facebook  dataset is included download others from http://snap.stanford.edu/data/ Use one with format like twitter_combine.txt or gplus_combine.txt
 
 #At entry point you can choose which dataset to use you can even add your own dataset from http://snap.stanford.edu/data/ . Code will work for all dataset.
 
