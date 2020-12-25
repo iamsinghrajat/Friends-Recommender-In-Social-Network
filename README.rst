@@ -14,24 +14,19 @@ How To Use
          
 #.
  
-    To run and understand this code  first reach ___EntryPoint___ (You can search for it in python code)
+    To run and understand this code  first reach ___EntryPoint___ in `python code <https://github.com/iamsinghrajat/Friends-Recommender-In-Social-Network/blob/9c0f4516123c8a5dd3163718704b375ab1c2c7da/LinkPredictionInSocialNetwork.py#L264>`_ . 
 
  
 #.
 
     * facebook_combine.txt is dataset.
 
-    * Facebook dataset is included download others from http://snap.stanford.edu/data/ Use one with format like twitter_combine.txt or gplus_combine.txt .
+    * Facebook dataset is included download others from http://snap.stanford.edu/data/ . Use one with format like twitter_combine.txt or gplus_combine.txt .
     
     * At entry point you can choose which dataset to use you can even add your own dataset from http://snap.stanford.edu/data/ . Code will work for all dataset.
  
-#.
+    *  By default it is set to Facebook Data Set
 
-    Name of dataset you want to run this code for, and cn is a integer for that dataset(any integer will work but different for each dataset)
-
-    By default it is set to Facebook Data Set
-
-    The project was run using Facebook and Twitter dataset but it works with any social network dataset from http://snap.stanford.edu/data/
     
 
 #.
