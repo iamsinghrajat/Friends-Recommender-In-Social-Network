@@ -1,7 +1,7 @@
 Link Prediction in Social Netowork
 =================================
 
-Uses Networkx library for graph representation and score calculation
+:info: A perfect repo for your  college project on data mining - link prediction - friends recommender.
 
 How To Use
 ----------
