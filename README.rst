@@ -27,6 +27,13 @@ How To Use
  
     *  By default it is set to Facebook Data Set
 
+#. 
+    * **sample_positive.txt:** all positive friend relation ie. people with connecting edge in graph
+    * **sample_negative.txt:** all negative friend relation ie. people with no connecting edge in graph
+    * **training.txt:** combination of positive and negative to get a dataset of relations
+    * **features_combined_2.txt:** for each relation features like AdamicAdar are calculated and then used for training model
+
+
     
 
 #.
